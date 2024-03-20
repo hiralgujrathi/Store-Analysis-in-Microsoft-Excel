@@ -1,4 +1,1 @@
-- This comprehensive **Excel project** revolves around a dataset comprising customer information such as age, gender, along with order details like purchase date, delivery status, purchase category, quantity ordered, shipping city, etc.
-- The dataset was cleaned within Excel, guaranteeing precision and dependability. Following this, an **interactive dashboard and pivot tables** were generated to visually depict significant insights extracted from the data.
-- This entailed converting raw data into insightful visual representations, offering a thorough summary of the store's performance and identifying specific customer segments to target in future endeavors.
-- According to the report, the largest segment of purchasing customers consists of **women aged between 30 and 50.** This valuable insight can assist the store in strategizing discounts and adjusting sales tactics accordingly.
+This comprehensive Excel project revolves around a dataset comprising customer information  along with order details. This entailed converting raw data into insightful visual representations , offering a summary of the store's performance.
